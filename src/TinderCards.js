@@ -8,11 +8,11 @@ function TinderCards() {
     const [people, setPeople] = useState([
         {
             name: 'Elon Musk',
-            url:'https://picsum.photos/200/300.jpg'
+            url:'https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTY2MzU3Nzk2OTM2MjMwNTkx/elon_musk_royal_society.jpg'
         },
         {
             name: 'Jeff bezos',
-            url:'https://picsum.photos/200/300.webp'
+            url:'https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg'
         }
     ]);
 
